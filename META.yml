@@ -1,5 +1,5 @@
 ---
-abstract: 'The great new Data::Money::Converter::WebserviceX!'
+abstract: 'WebserviceX currency conversion implementation'
 author:
   - 'Cory G Watson <gphat@cpan.org>'
 build_requires:
@@ -25,4 +25,4 @@ requires:
   Moose: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02
